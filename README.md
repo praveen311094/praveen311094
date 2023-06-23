@@ -11,9 +11,9 @@
 - Currently upskilled from OdinSchool where I have practical exposure working on real-world data from domains including **Banking, Sales, Retail and 
   Telecommunications** using technologies **SQL, Power BI, Python, and Excel.**
 ## Why Data Science?
-- My interest in data science emerged when I observed how platforms like Social Media platforms like **Youtube, and Instagram**  E-commerce websites like 
-  **Flipkart, and Amazon** OTT Platforms like **Netflix and Prime** read and analyze user behavior on applications or websites and provide personalized 
-   recommendations.
+- My interest in data science emerged when I observed how Social Media platforms like **Youtube, and Instagram**  E-commerce websites like 
+  **Flipkart, and Amazon** OTT Platforms like **Netflix and Prime** read, understand and analyze user behavior on applications or websites and provide 
+  personalized  recommendations based on interests.
 ## Interests
   - Exploring New AI technologies like **ChatGPT and Bard**. In order to understand the responses given based on the questions asked which helps to 
     build my **effective communication skills**
