@@ -1,7 +1,7 @@
 ### Hi there 👋 I am Praveen, en route on a journey of Data Science Adventure
 
 ## Work Experience ( May 2018 - Dec 2023 )
-- 4.8 years of experience in **Customer Service Profile** worked in **QCONNEQT, WIPRO, ONPASSIVE and TECH MAHINDRA**
+- 4.8 years of experience in **Technical Suport Profile** worked in **QCONNEQT, WIPRO, ONPASSIVE and TECH MAHINDRA**
 ## Internships
   - Forage Virtual Internship from the TATA Group
   - Business Analyst Intern with KultureHire **(Apr 2023- present)**
