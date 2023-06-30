@@ -1,10 +1,11 @@
 ### Hi there 👋 I am Praveen, en route on a journey of Data Science Adventure
 
-## Work Experience ( May 2018 - Dec 2023 )
+## Work Experience
 - 4.8 years of experience in **Technical Suport Profile** worked in **QCONNEQT, WIPRO, ONPASSIVE and TECH MAHINDRA**
 ## Internships
+  - Certified Data Science Professional from OdinSchool
   - Forage Virtual Internship from the TATA Group
-  - Business Analyst Intern with KultureHire **(Apr 2023- present)**
+  - Business Analyst Intern with KultureHire **(Apr 2023- Jun 2023)**
 ## Soft Skills
    **communication, Interpersonal skills, teamwork, time management, collaboration, Adaptability, and Flexibility**
 ## Technical Skills
