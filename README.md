@@ -5,7 +5,7 @@
 ## Internships
   - Certified Data Science Professional from OdinSchool
   - Forage Virtual Internship from the TATA Group
-  - Business Analyst Intern with KultureHire **(Apr 2023- Jun 2023)**
+  - Business Analyst Intern with KultureHire 
 ## Soft Skills
    **communication, Interpersonal skills, teamwork, time management, collaboration, Adaptability, and Flexibility**
 ## Technical Skills
