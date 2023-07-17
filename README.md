@@ -20,5 +20,5 @@
     build my **effective communication skills**
 ## How to contact me
 + If you feel that my profile suits the role you are looking to fill, you can reach me on 
-- [Linkedin](https://www.linkedin.com/in/praveen-kumar-peddabudi/)
-- [Email](praveenpeddabudi@gmail.com)
+  - [Linkedin](https://www.linkedin.com/in/praveen-kumar-peddabudi/)
+  - [Email](praveenpeddabudi@gmail.com)
