@@ -1,7 +1,7 @@
-### Hi there 👋 I am Praveen, en route on a journey of Data Science Adventure
+### Hi there 👋 I am Praveen, en route on a journey of Data Analytics Professional
 
 ## Work Experience
-- 4.8 years of experience in **Technical Suport Profile** worked in **QCONNEQT, WIPRO, ONPASSIVE and TECH MAHINDRA**
+- 4.8 years of experience in **Telecom & Customer Service domain** worked in **QCONNEQT, WIPRO, ONPASSIVE and TECH MAHINDRA**
 ## Internships
   - Certified Data Science Professional from OdinSchool
   - Forage Virtual Internship from the TATA Group
